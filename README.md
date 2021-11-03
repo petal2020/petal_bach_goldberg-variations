@@ -5,5 +5,4 @@ This repository introduces the data sets created during research on recorded per
 
 Motavasseli, Majid (forthcoming). “Interpretation of Cyclic Form in Bach’s “Goldberg Variations” through Performance History” In *Zeitschrift der Gesellschaft für Musiktheorie* 18 (2021), Special Issue: Musikalische Interpretation als Analyse. Historische, empirische und analytische Annäherungen an Aufführungsstrategien musikalischer Zyklen.
 
-The data will be uploaded in September 2021.
 
